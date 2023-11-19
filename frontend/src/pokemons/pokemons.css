@@ -1,0 +1,43 @@
+.pokemons {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 10px;
+    justify-content: center;
+}
+
+.pokemon-container {
+   /* border: 1px solid;
+    border-radius: 5px;*/
+    padding: 30px;
+}
+/*
+.pokemon-container.black {
+    border-color: black;
+}
+.pokemon-container.blue {
+    border-color: blue;
+}
+.pokemon-container.brown {
+    border-color: brown;
+}
+.pokemon-container.gray {
+    border-color: gray;
+}
+.pokemon-container.green {
+    border-color: green;
+}
+.pokemon-container.pink {
+    border-color: pink;
+}
+.pokemon-container.purple {
+    border-color: purple;
+}
+.pokemon-container.red {
+    border-color: red;
+}
+.pokemon-container.white {
+    border-color: white;
+}
+.pokemon-container.yellow {
+    border-color: yellow;
+}*/
